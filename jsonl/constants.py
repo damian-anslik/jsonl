@@ -1,0 +1,2 @@
+FILE_ENCODING = 'utf-8'
+LINE_SEPARATOR = '\n'
